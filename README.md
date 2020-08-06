@@ -39,7 +39,20 @@ git-lfs/2.1.1
 $ git clone --recursive git@github.com:slaclab/rogue-vcs-cosim-example
 ```
 
-<!--- ######################################################## -->
+
+<!--- ########################################################################################### -->
+
+# How to install the Rogue With Anaconda:
+
+> https://slaclab.github.io/rogue/installing/anaconda.html
+
+<!--- ########################################################################################### -->
+
+# PyDM Documentation:
+
+> https://slaclab.github.io/pydm/
+
+<!--- ########################################################################################### -->
 
 # How to run the Rogue PyDM GUI with VCS firmware simulator
 
