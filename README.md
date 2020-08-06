@@ -74,7 +74,7 @@ $ ./simv -gui &
 4) In the 2nd terminal, launch the PyDM GUI in simulation mode
 ```
 $ cd rogue-vcs-cosim-example/software
-$ source setup_env_template.sh
+$ source setup_env_slac.sh
 $ python scripts/DevGui.py
 ```
 
